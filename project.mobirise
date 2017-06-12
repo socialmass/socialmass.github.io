@@ -188,7 +188,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">VIDEO PRESENTAZIONE</span><br>",
           "text": "Ti piace questo video?<br>Realizziamo la tua presentazione video simile a questa!<br><br>Il video marketing è il futuro del web!<br><br>\"Con i video incrementi Conversione Email Marketing 10x <br>e il traffico social del 300%\"<br><br><i>La Realizzazione Video ha durata massima 1 minuto.</i><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"www.paypal.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">99 €</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"www.paypal.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"> € 99</a>"
         },
         {
           "_tags": [
@@ -415,7 +415,7 @@
           "title1": "Gestione Pagina Facebook &nbsp;",
           "subtitle1": "Gesetione Profilo - Pagina - Gruppo",
           "caption1": "<br><br>La gestione professionale di una pagina Facebook garantisce risparmio di tempo e denaro.<br><br><br><br><br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"www.paypal.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">99 €</a>  ",
+          "button1": "<a data-app-btn=\"true\" href=\"www.paypal.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"> € 99 al mese</a>  ",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/schermata-2017-06-12-alle-00-600x598.png",
@@ -431,7 +431,7 @@
           "title2": "Gestione Adv Facebook",
           "subtitle2": "Per chi vuole confrontarsi con il mondo pubblicitario di Facebook.<br><br>",
           "caption2": "* Campagne Banner Facebook<br>* Sviluppo della Landing Page<br>* Sviluppo&nbsp;contenuti testuali<br>* Studio della concorrenza<br>* Impostazione Analytics<br><br><br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"www.paypal.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">149 €</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"www.paypal.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"> € 149 al mese</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/download-600x600.png",
