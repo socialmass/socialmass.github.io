@@ -1,0 +1,750 @@
+{
+  "settings": {
+    "name": "socialmass",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#206abc",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "favicon": "",
+    "noImageResize": "",
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 25,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "46px"
+            },
+            ".mbr-section-lead": {
+              "color": "#f3c649"
+            }
+          },
+          "_anchor": "header1-3",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/schermata-2017-06-11-alle-21-2000x1092.png",
+            "bgColor": "#000000",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": ""
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#000000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "SOCIAL MASS",
+          "text": "Il networking del tuo business non sta funzionando?<br>La trasformazione digitale della tua azienda parte da qui.",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">perchè</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "SPAN": {
+              "font-size": "48px",
+              "text-align": "center"
+            },
+            "H2": {
+              "font-size": "46px",
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#f3c649"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/socialmediamarketing-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.8",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Come raggiungere il tuo target <br>e convertirlo in cliente?",
+                "showText": true,
+                "text": "Applichiamo strategie di marketing non convenzionali <br>per avere successo e crescere più velocemente.<br>",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#msg-box5-f\" data-toolbar=\"-mbrBtnMove\">i nostri servizi</a>  "
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-b",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "font-size": "32px",
+              "text-align": "center",
+              "color": "#f3c649"
+            },
+            ".btn": {
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "msg-box5-f",
+          "_params": {
+            "imageSize": "55",
+            "paddingTop": 0,
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=zpKM3uMstbw&feature=youtu.be",
+              "aspectratio": "4:3",
+              "autoplay": "on",
+              "loop": "on",
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">VIDEO PRESENTAZIONE</span><br>",
+          "text": "Ti piace questo video?<br>Realizziamo la tua presentazione video simile a questa!<br><br>Il video marketing è il futuro del web!<br><br>\"Con i video incrementi Conversione Email Marketing 10x <br>e il traffico social del 300%\"<br><br><i>La Realizzazione Video ha durata massima 1 minuto.</i><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"www.paypal.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">99 €</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#2969b0",
+              "font-size": "32px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            ".btn": {
+              "font-size": "15px"
+            },
+            "SPAN": {
+              "text-align": "center"
+            },
+            "B": {
+              "text-align": "right",
+              "color": "#434343"
+            },
+            "I": {
+              "color": "#000000",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "msg-box5-l",
+          "_params": {
+            "imageSize": "45",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/l1-1400x750.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"line-height: 1.1;\"><br></span><span style=\"line-height: 1.1;\">LINKEDIN&nbsp;MASS&nbsp;</span><br>",
+          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">Linkedin, c</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">on oltre 300 milioni di utenti e il 49% dei quali sono decision makers,</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;è lo strumento per ricercare e connettersi con potenziali clienti interessati ai prodotti o servizi offerti, perfetto per &nbsp;il cosiddetto social selling.</span><br><br><i>Cosa possiamo fare per te:</i><i><br></i><br><i style=\"font-weight: bold;\">°</i><b> Lead Generation per parola chiave e geolocalizzazione<br>°&nbsp;Incremento rapido Connessioni di 1°<br>°&nbsp;Invio Messaggi a tutti i Contatti di 1° e 2°<br>°&nbsp;Incremento dell'engagement<br>°&nbsp;Incremento degli endorsed riguardo le competenze personali</b>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#form1-i\" data-toolbar=\"-mbrBtnMove\">Contattaci</a>   "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#0d36f9",
+              "font-size": "32px"
+            },
+            "P": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "msg-box5-m",
+          "_params": {
+            "imageSize": "45",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/f1-1400x786.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "FACEBOOK MASS&nbsp;",
+          "text": "È indispensabile, seguire una serie di strategie marketing per attirare l’attenzione degli utenti, ottenere Lead (contatti) generando interazione, coinvolgimento con il proprio pubblico.<br>Facebook è il miglior canale per acquisire nuovi contatti di qualità, grazie all’utilizzo strategico delle sue potenzialità gratuite e a pagamento.<br><br><b>Cosa ti possiamo offire?</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#features1-6\" data-toolbar=\"-mbrBtnMove\">Scegli</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#000000"
+            },
+            ".btn": {
+              "font-size": "15px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "font-size": "18px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "font-size": "18px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "text-align": "left",
+              "font-size": "14px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "text-align": "center",
+              "font-size": "14px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle B": {
+              "color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text B": {
+              "font-size": "18px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle SPAN": {
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "features1-6",
+          "_params": {
+            "columnsColor": "#000000",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/download-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Gestione Pagina Facebook &nbsp;",
+          "subtitle1": "Gesetione Profilo - Pagina - Gruppo",
+          "caption1": "<br><br>La gestione professionale di una pagina Facebook garantisce risparmio di tempo e denaro.<br><br><br><br><br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"www.paypal.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">99 €</a>  ",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/schermata-2017-06-12-alle-00-600x598.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Gestione Adv Facebook",
+          "subtitle2": "Per chi vuole confrontarsi con il mondo pubblicitario di Facebook.<br><br>",
+          "caption2": "* Campagne Banner Facebook<br>* Sviluppo della Landing Page<br>* Sviluppo&nbsp;contenuti testuali<br>* Studio della concorrenza<br>* Impostazione Analytics<br><br><br><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"www.paypal.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">149 €</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/download-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Lead Generation Organica",
+          "subtitle3": "Raggiungi il tuo target <br>converti senza pagare facebook.<br><br><span style=\"font-style: normal;\">Analizziamo i tuoi competitor</span><br><span style=\"font-style: normal;\">Intercettiamo gli stessi follower</span><br><span style=\"font-style: normal;\">Controlliamo le loro campagne</span><br><span style=\"font-style: normal;\">Raggiungiamo i migliori Influencer</span><br><span style=\"font-style: normal;\">Incrementiamo fan, like, commenti</span><br><span style=\"font-style: normal;\">Sviluppiamo Landing Page</span><br><span style=\"font-style: normal;\">Trasformiamo i fan in clienti</span><br>",
+          "caption3": "",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#form1-i\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Contattaci</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/schermata-2017-06-12-alle-00-600x527.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "",
+          "subtitle4": "<div></div>",
+          "caption4": "<b>Consulenza specifica</b><br><br><br><br><br><br>",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#form1-i\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Contattaci</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#f97352",
+              "font-size": "32px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            },
+            "B": {
+              "text-align": "left"
+            },
+            ".btn": {
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "msg-box5-n",
+          "_params": {
+            "imageSize": "41",
+            "paddingTop": "0",
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<br>INSTAGRAM MASS",
+          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span><b>°&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">I</span></b><b style=\"font-size: 1.07rem; line-height: 1.5;\">ncremento rapido dei followers&nbsp;</b><br><b>°&nbsp;Incremento rapido dei Like <br>°&nbsp;Incremento rapido dei Commenti </b><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contattaci</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "form1-i",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "Contattaci",
+          "subtitle": "compila il form e verrai contattato entro 24h",
+          "form": {
+            "action": "andrea.cavallaro@msn.com",
+            "alerts": {
+              "success": "Grazie per aver compilato il form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nome*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Telefono"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Messaggio"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contattaci</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-j",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/m-128x128.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<br>SocialMass inc<br>Catania",
+          "text2": "<br>\nEmail: support@socialmass.com<br><br><br>",
+          "text3": "<br><br><br><br>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#f0b719"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f2c23b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#f3c649"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#206abc!important"
+            },
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-o",
+          "_params": {
+            "bgColor": "#f3c649",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/m-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Servizi</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-f\">VIDEO PRESENTAZIONE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-l\">LINKEDIN MASS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-m\" aria-expanded=\"false\">FACEBOOK MASS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"index.html#form1-i\">Contatti</a></li>"
+        }
+      ]
+    }
+  }
+}
