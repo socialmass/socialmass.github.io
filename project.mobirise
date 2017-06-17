@@ -413,10 +413,14 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://paypal.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">49 € al mese</a>",
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title4": "Gestione completa",
