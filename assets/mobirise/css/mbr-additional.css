@@ -447,15 +447,17 @@ h6,
   font-size: 15px;
 }
 #msg-box5-n H3 {
-  color: #f97352;
+  color: #2969b0;
   font-size: 32px;
   text-align: center;
 }
 #msg-box5-n P {
   text-align: center;
+  color: #ffffff;
 }
 #msg-box5-n B {
   text-align: left;
+  color: #2969b0;
 }
 #msg-box5-n .btn {
   font-size: 16px;
@@ -473,10 +475,11 @@ h6,
 }
 #msg-box5-l SPAN {
   text-align: center;
+  color: #ffffff;
 }
 #msg-box5-l B {
   text-align: right;
-  color: #434343;
+  color: #000000;
 }
 #msg-box5-l I {
   color: #000000;

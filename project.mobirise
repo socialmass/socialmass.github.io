@@ -197,15 +197,17 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#f97352",
+              "color": "#2969b0",
               "font-size": "32px",
               "text-align": "center"
             },
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#ffffff"
             },
             "B": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#2969b0"
             },
             ".btn": {
               "font-size": "16px"
@@ -219,7 +221,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#f97352",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -252,7 +254,7 @@
             }
           },
           "title": "<br>INSTAGRAM MASS",
-          "text": "<br><b>LIKE &nbsp;ITALIANI</b><br><b><br></b>1.000 LIKE INSTAGRAM ITALIANI*  per foto o video     —-&gt;    15 €  invece di 20 €<br>5.000 LIKE INSTAGRAM ITALIANI*   per foto o video     —-&gt;    50 €  invece di 100 €<br><br>L’incremento dei like aiuta anche a raggiungere la tua foto nella ricerca tra i post migliori di Instagram per HashTag.<br><br>*  I like sono totali e puoi scegliere se incrementare  un’unica foto o video oppure dividere i like per più foto o video.<br>** Consegna in 24h<br>",
+          "text": "<b>SOLO LIKE  ITALIANI</b><br>1.000 LIKE INSTAGRAM ITALIANI*  per foto o video     —-&gt;    15 €  invece di 20 €<br>5.000 LIKE INSTAGRAM ITALIANI*   per foto o video     —-&gt;    50 €  invece di 100 €<br><br>L’incremento dei like aiuta nella ricerca tra i post migliori di Instagram per HashTag<br>Puoi incrementare 1 foto o video oppure dividere i like per più foto o video.<br>** Consegna in 24h<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"www.paypal.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">1.000 LIKE ITALIANI a 15 €</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"www.paypal.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">5.000 LIKE ITALIANI a 50 €</a>"
         },
         {
@@ -273,11 +275,12 @@
               "font-size": "15px"
             },
             "SPAN": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#ffffff"
             },
             "B": {
               "text-align": "right",
-              "color": "#434343"
+              "color": "#000000"
             },
             "I": {
               "color": "#000000",
@@ -286,13 +289,13 @@
           },
           "_anchor": "msg-box5-l",
           "_params": {
-            "imageSize": "45",
+            "imageSize": "57",
             "paddingTop": "0",
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#2969b0",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -330,7 +333,7 @@
           },
           "title": "<span style=\"line-height: 1.1;\"><br></span><span style=\"line-height: 1.1;\">LINKEDIN&nbsp;MASS&nbsp;</span><br>",
           "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">Linkedin, c</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">on oltre 300 milioni di utenti e il 49% dei quali sono decision makers,</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;è lo strumento per ricercare e connettersi con potenziali clienti interessati ai prodotti o servizi offerti, perfetto per &nbsp;il cosiddetto social selling.</span><br><br><i>Cosa possiamo fare per te:</i><i><br></i><br><i style=\"font-weight: bold;\">°</i><b> Lead Generation per parola chiave e geolocalizzazione<br>°&nbsp;Incremento rapido Connessioni di 1°<br>°&nbsp;Invio Messaggi a tutti i Contatti di 1° e 2°<br>°&nbsp;Incremento dell'engagement<br>°&nbsp;Incremento degli endorsed riguardo le competenze personali</b>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#form1-i\" data-toolbar=\"-mbrBtnMove\">Contattaci</a>   "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#form1-i\" data-toolbar=\"-mbrBtnMove\">Contattaci</a>   "
         },
         {
           "_tags": [
