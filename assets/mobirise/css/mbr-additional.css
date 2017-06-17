@@ -446,6 +446,20 @@ h6,
 #msg-box5-f .btn {
   font-size: 15px;
 }
+#msg-box5-n H3 {
+  color: #f97352;
+  font-size: 32px;
+  text-align: center;
+}
+#msg-box5-n P {
+  text-align: center;
+}
+#msg-box5-n B {
+  text-align: left;
+}
+#msg-box5-n .btn {
+  font-size: 16px;
+}
 #msg-box5-l H3 {
   color: #2969b0;
   font-size: 32px;
@@ -512,20 +526,6 @@ h6,
   text-align: left;
   font-family: 'Raleway', sans-serif;
   font-size: 14px;
-}
-#msg-box5-n H3 {
-  color: #f97352;
-  font-size: 32px;
-  text-align: center;
-}
-#msg-box5-n P {
-  text-align: center;
-}
-#msg-box5-n B {
-  text-align: left;
-}
-#msg-box5-n .btn {
-  font-size: 16px;
 }
 #form1-i .form-control-label {
   color: #232323;
