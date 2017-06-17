@@ -448,7 +448,7 @@ h6,
   font-size: 15px;
 }
 #msg-box5-n H3 {
-  color: #b8312f;
+  color: #553982;
   font-size: 32px;
   text-align: center;
 }
@@ -462,6 +462,18 @@ h6,
 }
 #msg-box5-n .btn {
   font-size: 16px;
+}
+#features3-r H5 {
+  color: #fac51c;
+}
+#features3-r P {
+  text-align: center;
+}
+#features3-r B {
+  text-align: center;
+}
+#features3-r I {
+  text-align: center;
 }
 #msg-box5-l H3 {
   color: #2969b0;

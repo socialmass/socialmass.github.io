@@ -24,7 +24,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 26,
+    "uniqCompNum": 28,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -188,7 +188,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">VIDEO PRESENTAZIONE</span><br>",
           "text": "Ti piace questo video?<br>Realizziamo la tua presentazione video simile a questa!<br><br>Il video marketing è il futuro del web!<br><br>\"Con i video incrementi Conversione Email Marketing 10x <br>e il traffico social del 300%\"<br><br><i>La Realizzazione Video ha durata massima 1 minuto.</i><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"www.paypal.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">99 €</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"www.paypal.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">€ 99</a>"
         },
         {
           "_tags": [
@@ -197,7 +197,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#b8312f",
+              "color": "#553982",
               "font-size": "32px",
               "text-align": "center"
             },
@@ -239,7 +239,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/images-1400x700.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -254,8 +258,139 @@
             }
           },
           "title": "<br>INSTAGRAM MASS",
-          "text": "<b style=\"font-size: 1.07rem; line-height: 1.5;\">1.000 LIKE INSTAGRAM ITALIANI*  per foto o video     —-&gt;    15 €  invece di 20 €</b><br><b>5.000 LIKE INSTAGRAM ITALIANI*   per foto o video     —-&gt;    50 €  invece di 100 €</b><br><br>L’incremento dei like aiuta nella ricerca tra i post migliori di Instagram per HashTag<br>Puoi incrementare 1 foto o video oppure dividere i like per più foto o video.<br>** Consegna in 24h<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"www.paypal.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">1.000 LIKE ITALIANI a 15 €</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"www.paypal.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">5.000 LIKE ITALIANI a 50 €</a>"
+          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">La community di Instagram è vastissima ed in continua crescita.</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span><br>L’enorme visual appeal che ha Instagram offre un’ampia gamma di opportunità per fare marketing per il tuo business.<br><br>Tu usi Instagram per promuovere il tuo business? <br>Vorresti fare marketing con Instagram per crearne di nuovi?<br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#features3-r\" data-toolbar=\"-mbrBtnMove\">&nbsp;scopri cosa ti offriamo</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-r",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#f97352",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/0x0ss-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Incremento Follower <br>-Selezionati-&nbsp;",
+          "subtitle1": "Riceverai il 30% di Follower<br>tra i tuoi prospect selezionati.",
+          "caption1": "Seguiamo gli utenti per:<br><br><b>parola chiave, geolocalizzazione,<br>tutti gli amici di account specifici,<br>utenti che interagiscono con i post di un account specifico o post specifico</b>.<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://paypal.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp;€ 99 al mese</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/download-1-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Incremento Like e Commenti<br>-Selezionati-",
+          "subtitle2": "Riceverai un'ottima % di like di ritorno &nbsp;<div>&nbsp;tra i tuoi prospect selezionati.</div>",
+          "caption2": "Aggiungiamo like ai tuoi prospect e commentiamo per:<br><b>parola chiave, geo-localizzazione, specifici utenti, post di follower di altri account o competitor, dei tuoi follower, ultimi post dei feed, post degli tuenti che interagiscono con i post o gli account target</b>.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://paypal.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">€ 199 al mese</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/0x0ss-85-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Lead Generation <br>Sales",
+          "subtitle3": "del tuo servizio o prodotto",
+          "caption3": "<b><br></b><b>Estraiamo i Contatti dei follower di un account instragram<br>Inviamo un messaggio personalizzato ai nuovi followers.<br>Automatizziamo l'invio di un messaggio alla ricezione di un commento o messaggio dai tuoi follower.</b><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://paypal.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">€ 199 al mese</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/download-2-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Incremento rapido<br>&nbsp;- Like Italiani -&nbsp;",
+          "subtitle4": "consegna in 24 h",
+          "caption4": "<b><br></b><b>L’incremento dei like aiuta nella ricerca tra i post migliori di Instagram per HashTag</b><br><br><i>* Possiamo Incrementare 1 post oppure dividere i like per più post.<br></i><br><br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://paypal.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">1.000 LIKE a € 15</a> <a data-app-btn=\"true\" href=\"https://paypal.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">5.000 LIKE a € 50</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "H5": {
+              "color": "#fac51c"
+            },
+            "P": {
+              "text-align": "center"
+            },
+            "B": {
+              "text-align": "center"
+            },
+            "I": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_tags": [
@@ -375,10 +510,10 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Lead Generation",
+          "title1": "Lead Generation e Sales",
           "subtitle1": "del tuo prodotto o servizio",
           "caption1": "<br>Ricerchiamo il prospect per mansione lavorativa e geolocalizzazione.<br>Inviamo il tuo messaggio a tutti i contatti di 1° e 2°<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://paypal.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">99 € al mese</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://paypal.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">€ 149 al mese</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/images-600x389.jpg",
@@ -394,7 +529,7 @@
           "title2": "Incremento <br>Connessioni e Follower&nbsp;",
           "subtitle2": "del tuo profilo",
           "caption2": "Ricerchiamo il prospect per mansione e geolocalizzazione e lo invitiamo a connetterci o scegliamo di seguirlo.<br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://paypal.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">99 € al mese</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://paypal.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">€ 99 al mese</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/images-600x399.jpg",
@@ -410,7 +545,7 @@
           "title3": "Incremento Endorsed",
           "subtitle3": "del tuo profilo<br><br>",
           "caption3": " Incrementiamo gli endorsed riguardo le competenze personali.<br><br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://paypal.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">49 € al mese</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://paypal.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">€ 49 al mese</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
@@ -426,7 +561,7 @@
           "title4": "Gestione completa",
           "subtitle4": "del tuo profilo",
           "caption4": "Gestiamo il tuo profilo a 360° Incrementiamo l'engagement e le visualizzazioni del tuo profilo.<br><br><br>",
-          "button4": "<a data-app-btn=\"true\" href=\"index.html#form1-i\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Contattaci</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#form1-i\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">€ 199</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -650,7 +785,7 @@
           "title3": "Lead Generation Organica",
           "subtitle3": "Raggiungi il tuo target <br>converti senza pagare facebook.<br><br><br><span style=\"font-style: normal;\">Ricerchiamo il prospect per interessi, età, geolocalizzazione.</span><br><span style=\"font-style: normal;\">Sviluppiamo la Landing Page</span><br><span style=\"font-style: normal;\">Trasformiamo i fan in clienti</span><br><br><div><span style=\"font-style: normal;\"><br></span><br></div>",
           "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"index.html#form1-i\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">199 €</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#form1-i\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">€ 199 al meese</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/schermata-2017-06-17-alle-13-600x561.png",
@@ -666,7 +801,7 @@
           "title4": "",
           "subtitle4": "<b style=\"font-style: normal;\">Analisi Competitor</b><br><b style=\"font-style: normal;\">Sviluppo Strategia</b>",
           "caption4": "<br><br><span style=\"line-height: 1.5;\">Analizziamo i tuoi competitor</span><br>Analizziamo i loro post le loro condivisioni e campagne ads<br>Intercettiamo gli stessi follower<br>Raggiungiamo i migliori Influencer.<br>Forniamo un report dettagliato.<div><br></div><br><div><br></div>",
-          "button4": "<a data-app-btn=\"true\" href=\"index.html#form1-i\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">199 €</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#form1-i\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">€ 199</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
