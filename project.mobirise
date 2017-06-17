@@ -197,7 +197,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#2969b0",
+              "color": "#b8312f",
               "font-size": "32px",
               "text-align": "center"
             },
@@ -207,7 +207,7 @@
             },
             "B": {
               "text-align": "left",
-              "color": "#2969b0"
+              "color": "#ffffff"
             },
             ".btn": {
               "font-size": "16px"
@@ -254,8 +254,8 @@
             }
           },
           "title": "<br>INSTAGRAM MASS",
-          "text": "<b>SOLO LIKE  ITALIANI</b><br>1.000 LIKE INSTAGRAM ITALIANI*  per foto o video     —-&gt;    15 €  invece di 20 €<br>5.000 LIKE INSTAGRAM ITALIANI*   per foto o video     —-&gt;    50 €  invece di 100 €<br><br>L’incremento dei like aiuta nella ricerca tra i post migliori di Instagram per HashTag<br>Puoi incrementare 1 foto o video oppure dividere i like per più foto o video.<br>** Consegna in 24h<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"www.paypal.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">1.000 LIKE ITALIANI a 15 €</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"www.paypal.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">5.000 LIKE ITALIANI a 50 €</a>"
+          "text": "<b style=\"font-size: 1.07rem; line-height: 1.5;\">1.000 LIKE INSTAGRAM ITALIANI*  per foto o video     —-&gt;    15 €  invece di 20 €</b><br><b>5.000 LIKE INSTAGRAM ITALIANI*   per foto o video     —-&gt;    50 €  invece di 100 €</b><br><br>L’incremento dei like aiuta nella ricerca tra i post migliori di Instagram per HashTag<br>Puoi incrementare 1 foto o video oppure dividere i like per più foto o video.<br>** Consegna in 24h<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"www.paypal.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">1.000 LIKE ITALIANI a 15 €</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"www.paypal.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">5.000 LIKE ITALIANI a 50 €</a>"
         },
         {
           "_tags": [
@@ -331,9 +331,9 @@
               "size": 0
             }
           },
-          "title": "<span style=\"line-height: 1.1;\"><br></span><span style=\"line-height: 1.1;\">LINKEDIN&nbsp;MASS&nbsp;</span><br>",
+          "title": "<span style=\"line-height: 1.1;\"><br></span><br><span style=\"line-height: 1.1;\">LINKEDIN&nbsp;MASS&nbsp;</span><br>",
           "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">Linkedin, c</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">on oltre 300 milioni di utenti e il 49% dei quali sono decision makers,</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;è lo strumento per ricercare e connettersi con potenziali clienti interessati ai prodotti o servizi offerti, perfetto per &nbsp;il cosiddetto social selling.</span><br><br><i>Cosa possiamo fare per te:</i><i><br></i><br><i style=\"font-weight: bold;\">°</i><b> Lead Generation per parola chiave e geolocalizzazione<br>°&nbsp;Incremento rapido Connessioni di 1°<br>°&nbsp;Invio Messaggi a tutti i Contatti di 1° e 2°<br>°&nbsp;Incremento dell'engagement<br>°&nbsp;Incremento degli endorsed riguardo le competenze personali</b>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#form1-i\" data-toolbar=\"-mbrBtnMove\">Contattaci</a>   "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"index.html#form1-i\" data-toolbar=\"-mbrBtnMove\">Contattaci</a>   "
         },
         {
           "_tags": [
