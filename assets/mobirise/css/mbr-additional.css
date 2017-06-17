@@ -7,6 +7,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -485,6 +486,9 @@ h6,
   color: #000000;
   text-align: center;
 }
+#features3-p H5 {
+  color: #f7da64;
+}
 #msg-box5-m H3 {
   color: #0d36f9;
   font-size: 32px;
@@ -495,6 +499,9 @@ h6,
 #msg-box5-m .btn {
   font-size: 15px;
 }
+#msg-box5-m B {
+  color: #fac51c;
+}
 #features1-6 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #000000;
 }
@@ -503,6 +510,7 @@ h6,
 }
 #features1-6 .mbr-cards-col:nth-child(even) .card-title {
   font-size: 18px;
+  color: #ffffff;
 }
 #features1-6 .mbr-cards-col:nth-child(odd) .card-title {
   font-size: 18px;
@@ -514,6 +522,7 @@ h6,
 #features1-6 .mbr-cards-col:nth-child(even) .card-text {
   text-align: center;
   font-size: 14px;
+  color: #ffffff;
 }
 #features1-6 .mbr-cards-col:nth-child(odd) .card-subtitle B {
   color: #ffffff;
@@ -529,6 +538,13 @@ h6,
   text-align: left;
   font-family: 'Raleway', sans-serif;
   font-size: 14px;
+}
+#features1-6 .mbr-cards-col:nth-child(even) .card-subtitle {
+  color: #ffffff;
+}
+#features1-6 .mbr-cards-col:nth-child(even) .card-subtitle B {
+  font-size: 18px;
+  font-family: 'Montserrat', sans-serif;
 }
 #form1-i .form-control-label {
   color: #232323;

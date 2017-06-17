@@ -24,7 +24,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 25,
+    "uniqCompNum": 26,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -307,7 +307,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -332,8 +332,126 @@
             }
           },
           "title": "<span style=\"line-height: 1.1;\"><br></span><br><span style=\"line-height: 1.1;\">LINKEDIN&nbsp;MASS&nbsp;</span><br>",
-          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">Linkedin, c</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">on oltre 300 milioni di utenti e il 49% dei quali sono decision makers,</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;è lo strumento per ricercare e connettersi con potenziali clienti interessati ai prodotti o servizi offerti, perfetto per &nbsp;il cosiddetto social selling.</span><br><br><i>Cosa possiamo fare per te:</i><i><br></i><br><i style=\"font-weight: bold;\">°</i><b> Lead Generation per parola chiave e geolocalizzazione<br>°&nbsp;Incremento rapido Connessioni di 1°<br>°&nbsp;Invio Messaggi a tutti i Contatti di 1° e 2°<br>°&nbsp;Incremento dell'engagement<br>°&nbsp;Incremento degli endorsed riguardo le competenze personali</b>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"index.html#form1-i\" data-toolbar=\"-mbrBtnMove\">Contattaci</a>   "
+          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">Linkedin, c</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">on oltre 300 milioni di utenti e il 49% dei quali sono decision makers,</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;è lo strumento per ricercare e connettersi con potenziali clienti interessati ai prodotti o servizi offerti, perfetto per &nbsp;il cosiddetto social selling.</span><br><br><i>Cosa possiamo fare per te:</i><i><br></i><br><i style=\"font-weight: bold;\">°</i><b> Lead Generation per parola chiave e geolocalizzazione<br>°&nbsp;Incremento rapido Connessioni di 1°<br>°&nbsp;Invio Messaggi a tutti i Contatti di 1° e 2°<br>°&nbsp;Incremento dell'engagement<br>°&nbsp;Incremento degli endorsed riguardo le competenze</b>",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"index.html#form1-i\" data-toolbar=\"-mbrBtnMove\">Contattaci</a>    "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-p",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2969b0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/download-600x394.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Lead Generation",
+          "subtitle1": "del tuo prodotto o servizio",
+          "caption1": "<br>Ricerchiamo il prospect per mansione lavorativa e geolocalizzazione.<br>Inviamo il tuo messaggio a tutti i contatti di 1° e 2°<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://paypal.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">99 € al mese</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/images-600x389.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Incremento <br>Connessioni e Follower&nbsp;",
+          "subtitle2": "del tuo profilo",
+          "caption2": "Ricerchiamo il prospect per mansione e geolocalizzazione e lo invitiamo a connetterci o scegliamo di seguirlo.<br><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://paypal.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">99 € al mese</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/images-600x399.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Incremento Endorsed",
+          "subtitle3": "del tuo profilo<br><br>",
+          "caption3": " Incrementiamo gli endorsed riguardo le competenze personali.<br><br><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://paypal.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">49 € al mese</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Gestione completa",
+          "subtitle4": "del tuo profilo",
+          "caption4": "Gestiamo il tuo profilo a 360° Incrementiamo l'engagement e le visualizzazioni del tuo profilo.<br><br><br>",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#form1-i\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Contattaci</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "H5": {
+              "color": "#f7da64"
+            }
+          }
         },
         {
           "_tags": [
@@ -350,6 +468,9 @@
             },
             ".btn": {
               "font-size": "15px"
+            },
+            "B": {
+              "color": "#fac51c"
             }
           },
           "_anchor": "msg-box5-m",
@@ -372,7 +493,7 @@
             "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -413,7 +534,8 @@
               "font-size": "15px"
             },
             ".mbr-cards-col:nth-child(even) .card-title": {
-              "font-size": "18px"
+              "font-size": "18px",
+              "color": "#ffffff"
             },
             ".mbr-cards-col:nth-child(odd) .card-title": {
               "font-size": "18px"
@@ -424,7 +546,8 @@
             },
             ".mbr-cards-col:nth-child(even) .card-text": {
               "text-align": "center",
-              "font-size": "14px"
+              "font-size": "14px",
+              "color": "#ffffff"
             },
             ".mbr-cards-col:nth-child(odd) .card-subtitle B": {
               "color": "#ffffff"
@@ -442,17 +565,25 @@
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "14px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle B": {
+              "font-size": "18px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           },
           "_anchor": "features1-6",
           "_params": {
             "columnsColor": "#000000",
-            "paddingTop": 2,
+            "paddingTop": "0",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -518,7 +649,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"index.html#form1-i\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Contattaci</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/schermata-2017-06-12-alle-00-600x527.png",
+              "src": "@PROJECT_PATH@/assets/images/schermata-2017-06-17-alle-13-600x561.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -529,8 +660,8 @@
             }
           },
           "title4": "",
-          "subtitle4": "<div></div>",
-          "caption4": "<b>Consulenza specifica</b><br><br><br><br><br><br>",
+          "subtitle4": "<b style=\"font-style: normal;\">Consulenza specifica</b>",
+          "caption4": "<br><br><br><br>",
           "button4": "<a data-app-btn=\"true\" href=\"index.html#form1-i\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Contattaci</a>",
           "media5": {
             "image": {
