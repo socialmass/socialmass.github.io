@@ -516,7 +516,7 @@ h6,
   font-size: 18px;
 }
 #features1-6 .mbr-cards-col:nth-child(odd) .card-text {
-  text-align: left;
+  text-align: center;
   font-size: 14px;
 }
 #features1-6 .mbr-cards-col:nth-child(even) .card-text {

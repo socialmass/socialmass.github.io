@@ -545,7 +545,7 @@
               "font-size": "18px"
             },
             ".mbr-cards-col:nth-child(odd) .card-text": {
-              "text-align": "left",
+              "text-align": "center",
               "font-size": "14px"
             },
             ".mbr-cards-col:nth-child(even) .card-text": {
@@ -617,7 +617,7 @@
           },
           "title1": "Gestione Pagina Facebook &nbsp;",
           "subtitle1": "Gesetione Profilo - Pagina - Gruppo",
-          "caption1": "<br><br>La gestione professionale di una pagina Facebook garantisce risparmio di tempo e denaro.<br><br><br><br><br><br>",
+          "caption1": "<br><br>La gestione professionale di una pagina Facebook garantisce risparmio di tempo e denaro.<br>Incrementiamo organicamente l'engagement.<br><br><br><br><br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"www.paypal.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"> € 99 al mese</a>  ",
           "media2": {
             "image": {
@@ -633,7 +633,7 @@
           },
           "title2": "Gestione Adv Facebook",
           "subtitle2": "Per chi vuole confrontarsi con il mondo pubblicitario di Facebook.<br><br>",
-          "caption2": "* Campagne Banner Facebook<br>* Sviluppo della Landing Page<br>* Sviluppo&nbsp;contenuti testuali<br>* Studio della concorrenza<br>* Impostazione Analytics<br><br><br><br>",
+          "caption2": "* Creiamo Campagne Facebook<br>* Sviluppiamo la Landing Page<br>* Sviluppiamo contenuti testuali<br>* Studiamo la concorrenza<br>* Impostiamo Analytics<br><br><br><br><br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"www.paypal.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"> € 149 al mese</a>",
           "media3": {
             "image": {
@@ -648,9 +648,9 @@
             }
           },
           "title3": "Lead Generation Organica",
-          "subtitle3": "Raggiungi il tuo target <br>converti senza pagare facebook.<br><br><span style=\"font-style: normal;\">Analizziamo i tuoi competitor</span><br><span style=\"font-style: normal;\">Intercettiamo gli stessi follower</span><br><span style=\"font-style: normal;\">Controlliamo le loro campagne</span><br><span style=\"font-style: normal;\">Raggiungiamo i migliori Influencer</span><br><span style=\"font-style: normal;\">Incrementiamo fan, like, commenti</span><br><span style=\"font-style: normal;\">Sviluppiamo Landing Page</span><br><span style=\"font-style: normal;\">Trasformiamo i fan in clienti</span><br>",
+          "subtitle3": "Raggiungi il tuo target <br>converti senza pagare facebook.<br><br><br><span style=\"font-style: normal;\">Ricerchiamo il prospect per interessi, età, geolocalizzazione.</span><br><span style=\"font-style: normal;\">Sviluppiamo la Landing Page</span><br><span style=\"font-style: normal;\">Trasformiamo i fan in clienti</span><br><br><div><span style=\"font-style: normal;\"><br></span><br></div>",
           "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"index.html#form1-i\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Contattaci</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#form1-i\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">199 €</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/schermata-2017-06-17-alle-13-600x561.png",
@@ -664,9 +664,9 @@
             }
           },
           "title4": "",
-          "subtitle4": "<b style=\"font-style: normal;\">Consulenza specifica</b>",
-          "caption4": "<br><br><br><br>",
-          "button4": "<a data-app-btn=\"true\" href=\"index.html#form1-i\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Contattaci</a>",
+          "subtitle4": "<b style=\"font-style: normal;\">Analisi Competitor</b><br><b style=\"font-style: normal;\">Sviluppo Strategia</b>",
+          "caption4": "<br><br><span style=\"line-height: 1.5;\">Analizziamo i tuoi competitor</span><br>Analizziamo i loro post le loro condivisioni e campagne ads<br>Intercettiamo gli stessi follower<br>Raggiungiamo i migliori Influencer.<br>Forniamo un report dettagliato.<div><br></div><br><div><br></div>",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#form1-i\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">199 €</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
