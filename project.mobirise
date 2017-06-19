@@ -266,6 +266,20 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "H5": {
+              "color": "#fac51c"
+            },
+            "P": {
+              "text-align": "center"
+            },
+            "B": {
+              "text-align": "center"
+            },
+            "I": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "features3-r",
           "_params": {
             "paddingTop": "2",
@@ -349,10 +363,10 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "Incremento rapido<br>&nbsp;- Like Italiani -&nbsp;",
-          "subtitle4": "consegna in 24 h",
-          "caption4": "<b><br></b><b>L’incremento dei like aiuta nella ricerca tra i post migliori di Instagram per HashTag</b><br><br><i>* Possiamo Incrementare 1 post oppure dividere i like per più post.<br></i><br><br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://paypal.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">1.000 LIKE a € 15</a> <a data-app-btn=\"true\" href=\"https://paypal.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">5.000 LIKE a € 50</a>",
+          "title4": "Incremento&nbsp;Like Italiani<br>e<br>Incremento visualizzazioni video",
+          "subtitle4": "consegna rapida in 24 h",
+          "caption4": "<b>L’incremento delle visite e dei like aiuta nella ricerca tra i post migliori di Instagram per HashTag e accresce la reputazione.</b><br><br><i>* Possiamo Incrementare 1 post oppure dividere i like per più post.</i><br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://paypal.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">1.000 Like a € 15</a> <a data-app-btn=\"true\" href=\"https://paypal.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">1.000 visualizzioni € 5</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -376,21 +390,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "H5": {
-              "color": "#fac51c"
-            },
-            "P": {
-              "text-align": "center"
-            },
-            "B": {
-              "text-align": "center"
-            },
-            "I": {
-              "text-align": "center"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
@@ -475,6 +475,11 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "H5": {
+              "color": "#f7da64"
+            }
+          },
           "_anchor": "features3-p",
           "_params": {
             "paddingTop": "0",
@@ -585,12 +590,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "H5": {
-              "color": "#f7da64"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
