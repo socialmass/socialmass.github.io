@@ -1,6 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
 
 
 
@@ -421,6 +422,7 @@ h6,
 }
 #header1-3 .mbr-section-lead {
   color: #f3c649;
+  font-size: 22px;
 }
 #msg-box8-t .mbr-section-title,
 #msg-box8-t p {
@@ -429,6 +431,11 @@ h6,
 #msg-box8-t .lead P {
   color: #fac51c;
   text-align: center;
+}
+#msg-box8-t .lead H4 {
+  color: #f3c649;
+  font-size: 20px;
+  font-family: 'Lora', serif;
 }
 #msg-box5-f H3 {
   color: #ffffff;
@@ -479,6 +486,7 @@ h6,
 }
 #pricing-table2-s .mbr-price-figure {
   font-size: 20px;
+  color: #000000;
 }
 #pricing-table2-s .mbr-price-term {
   font-size: 20px;

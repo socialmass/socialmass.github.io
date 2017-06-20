@@ -49,7 +49,8 @@
               "font-size": "46px"
             },
             ".mbr-section-lead": {
-              "color": "#f3c649"
+              "color": "#f3c649",
+              "font-size": "22px"
             }
           },
           "_anchor": "header1-3",
@@ -76,7 +77,7 @@
           },
           "title": "Raggiungi il tuo target <br>e convertirlo in cliente",
           "text": "Socialmass è il più potente servizio di crescita social organica!<br><br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#slider-b\" data-toolbar=\"-mbrBtnMove\">scopri</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#msg-box8-t\" data-toolbar=\"-mbrBtnMove\">scopri</a>"
         },
         {
           "_styles": {
@@ -86,6 +87,12 @@
             ".lead P": {
               "color": "#fac51c",
               "text-align": "center"
+            },
+            ".lead H4": {
+              "color": "#f3c649",
+              "font-size": "20px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           },
           "_tags": [
@@ -114,8 +121,8 @@
             "showText": true,
             "showButton": false
           },
-          "title": "Facciamo qualcosa di nuovo",
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Vi aiutiamo a far crescere i vostri account&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Linkedin, Facebook e Instagram</span></p>",
+          "title": "Facciamo qualcosa di nuovo<br>",
+          "text": "<h4><span style=\"font-size: 17px; font-weight: normal; line-height: 25px;\">Aiutiamo ad accrescere i vostri account: Facebook, Linkedin e Instagram.</span></h4>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -253,7 +260,7 @@
             }
           },
           "title": "<br>INSTAGRAM MASS",
-          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">La community di Instagram è vastissima ed in continua crescita.</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span><br>L’enorme visual appeal che ha Instagram offre un’ampia gamma di opportunità per fare marketing per il tuo business.<br><br>Vorresti fare marketing con Instagram per per promuovere il tuo business?<br>",
+          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">La community di Instagram è vastissima ed in continua crescita.</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span><br>L’enorme visual appeal che ha Instagram offre un’ampia gamma di opportunità per fare marketing per il tuo business.<br><br>Vorresti accelerare la creascita di Instagram per per promuovere il tuo business?<br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#pricing-table2-s\" data-toolbar=\"-mbrBtnMove\">&nbsp;scopri come</a>"
         },
         {
@@ -272,7 +279,8 @@
               "border-color": "#cfcfcf"
             },
             ".mbr-price-figure": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "color": "#000000"
             },
             ".mbr-price-term": {
               "font-size": "20px"
@@ -341,33 +349,33 @@
           "subtitle1": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;PROFILATI",
           "currency1": "",
           "price1": "€ 40",
-          "period1": "/settimana",
+          "period1": "/ a settimana",
           "description1": "Riceverai un pubblico realmente interessato.<br>Faremo una ricerca profilata per parola chiave, geolocalizzazione,<br>amici di account specifici,<br>utenti che interagiscono con i post di un account specifico,<br>specifici utenti.<br>",
-          "list1": "<p><span style=\"line-height: 1.5;\">Crescita Organica</span><br></p><p></p><div>Concentri sul pubblico preferito</div><div><br></div><div>Gestione 7 gg a settimana</div><div><br></div><div>Supporto online</div><p></p>",
+          "list1": "<p><span style=\"line-height: 1.5;\">Crescita Organica</span><br></p><p></p><div>Concentri sul pubblico preferito</div><div><br></div><div>Gestione 7 gg a settimana</div><div><br></div><div>Supporto online</div><div><br></div><p></p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com\" class=\"btn btn-warning-outline btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">inizia</a>",
           "label2": "HOT!",
           "title2": "LEAD GENERATION<br>ORGANICA",
           "subtitle2": "PROMUOVI IL TUO PRODOTTO",
           "currency2": "",
           "price2": "€ 50",
-          "period2": "/settimana",
-          "description2": "Estraiamo i contatti dei follower di un account instragram<br>Inviamo un messaggio personalizzato ai followers.<br>Automatizziamo l'invio di un messaggio alla ricezione di un commento o messaggio dai tuoi follower.<br>",
-          "list2": "<p><span style=\"line-height: 1.5;\">Crescita Organica</span><br></p><p>Concentri sul pubblico preferito</p><p>Gestione 7 gg a settimana</p><p>Supporto online</p>",
+          "period2": "/ a settimana",
+          "description2": "<span style=\"font-size: 0.875rem; line-height: 1.79;\">Estraiamo i contatti dei follower di un account instragram</span><br>Inviamo messaggio personalizzato ai followers.<br>Automatizziamo l'invio di un messaggio alla ricezione di un commento o messaggio dai tuoi follower.<br>",
+          "list2": "<p><span style=\"line-height: 1.5;\">Crescita Organica</span><br></p><p>Concentri sul pubblico preferito</p><p>Gestione 7 gg a settimana</p><p>Supporto online</p><p><br></p>",
           "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com\" class=\"btn btn-warning-outline btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">inizia</a>",
           "label3": "HOT!",
           "title3": "INCREMENTO RAPIDO<br>LIKE ITALIANI<br><br>",
           "subtitle3": "",
           "currency3": "",
-          "price3": "1000 Like Italiani<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;€ 20",
+          "price3": "1.000 Like Italiani&nbsp; &nbsp; &nbsp;",
           "period3": "",
-          "description3": "<span style=\"font-size: 0.875rem; line-height: 1.79;\">L’incremento dei like ti posiziona &nbsp;tra i post migliori di Instagram per HashTag e accresce la reputazione.</span><br>",
+          "description3": "<span style=\"font-size: 0.875rem; line-height: 1.79;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.79;\">L’incremento dei like ti posiziona &nbsp;tra i post migliori di Instagram per HashTag e accresce la reputazione.</span><br>",
           "list3": "<p>Puoi dividere i like per più post</p><p><span style=\"line-height: 1.5;\">Consegna entro le 24 h</span></p><p><span style=\"line-height: 1.5;\">90% like Italiani</span></p><p><span style=\"line-height: 1.5;\">Non organico</span></p>",
           "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com\" class=\"btn btn-warning-outline btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">1000 like 20€<br></a> <a data-app-btn=\"true\" href=\"https://www.paypal.com\" class=\"btn btn-warning-outline btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">5000 like 60€<br></a>",
           "label4": "HOT!",
           "title4": "INCREMENTO RAPIDO<br>VISUALIZZAZIONI VIDEO",
           "subtitle4": "",
           "currency4": "",
-          "price4": "1000visualizzazioni<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; € 10&nbsp;<br><br>",
+          "price4": "<br>1.000 visualizzazioni<br>&nbsp; &nbsp; &nbsp; &nbsp;<br>",
           "period4": "",
           "description4": "L’incremento delle visite ti posiziona tra i post migliori di Instagram per HashTag e accresce la reputazione.",
           "list4": "<p><span style=\"line-height: 1.5;\">Puoi dividere le view per post</span></p><p><span style=\"line-height: 1.5;\">Consegna entro le 24 h</span></p><p><span style=\"line-height: 1.5;\">Non organico</span></p><div><br></div><p></p>",
