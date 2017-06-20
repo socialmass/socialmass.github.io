@@ -24,7 +24,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 31,
+    "uniqCompNum": 35,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -122,7 +122,7 @@
             "showButton": false
           },
           "title": "Facciamo qualcosa di nuovo<br>",
-          "text": "<h4><span style=\"font-size: 17px; font-weight: normal; line-height: 25px;\">Aiutiamo ad accrescere i vostri account: Facebook, Linkedin e Instagram.</span></h4>",
+          "text": "<h4><span style=\"font-size: 17px; font-weight: normal; line-height: 25px;\">Acceleriamo la crescita dei vostri account: Facebook, Linkedin e Instagram.</span></h4>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -189,7 +189,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">VIDEO PRESENTAZIONE</span><br>",
-          "text": "Ti piace questo video?<br>Realizziamo la tua presentazione video simile a questa!<br><br>Il video marketing è il futuro del web!<br><br>\"Con i video incrementi Conversione Email Marketing 10x <br>e il traffico social del 300%\"<br><br><i>La Realizzazione Video ha durata massima 1 minuto.</i><br>",
+          "text": "Ti piace questo video?<br>Realizziamo la tua presentazione video simile!<br><br>Il video marketing è il futuro del web!<br><br>\"Con i video incrementi Conversione Email Marketing 10x <br>e il traffico social del 300%\"<br><br><i>*durata massima 1 minuto.</i><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"www.paypal.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">€ 149</a>"
         },
         {
@@ -312,6 +312,9 @@
             },
             "P": {
               "font-size": "14px"
+            },
+            ".mbr-section__container .mbr-section-title": {
+              "font-size": "46px"
             }
           },
           "_tags": [
@@ -320,8 +323,8 @@
           "_name": "pricing-table2",
           "_anchor": "pricing-table2-s",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -342,8 +345,8 @@
             "thirdType": "",
             "fourthType": ""
           },
-          "title": "accelera la crescita",
-          "subtitle": "scegli il pacchetto adatto ai tuoi obbiettivi.",
+          "title": "accelera la crescita IG",
+          "subtitle": "In una settimana ti offriamo più risultati della classica gestione mensile di un social media manager.",
           "label1": "HOT!",
           "title1": "INCREMENTO ORGANICO<br>LIKE E FOLLOWER",
           "subtitle1": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;PROFILATI",
@@ -351,7 +354,7 @@
           "price1": "€ 40",
           "period1": "/ a settimana",
           "description1": "Riceverai un pubblico realmente interessato.<br>Faremo una ricerca profilata per parola chiave, geolocalizzazione,<br>amici di account specifici,<br>utenti che interagiscono con i post di un account specifico,<br>specifici utenti.<br>",
-          "list1": "<p><span style=\"line-height: 1.5;\">Crescita Organica</span><br></p><p></p><div>Concentri sul pubblico preferito</div><div><br></div><div>Gestione 7 gg a settimana</div><div><br></div><div>Supporto online</div><div><br></div><p></p>",
+          "list1": "<p><span style=\"line-height: 1.5;\">Crescita Organica</span><br></p><p></p><div>Concentri sul pubblico preferito</div><div><br></div><div>Gestione 7 gg a settimana</div><div><br></div><div>Supporto online</div><div><br></div><div>Necessaria la password</div><div><br></div><p></p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com\" class=\"btn btn-warning-outline btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">inizia</a>",
           "label2": "HOT!",
           "title2": "LEAD GENERATION<br>ORGANICA",
@@ -360,7 +363,7 @@
           "price2": "€ 50",
           "period2": "/ a settimana",
           "description2": "<span style=\"font-size: 0.875rem; line-height: 1.79;\">Estraiamo i contatti dei follower di un account instragram</span><br>Inviamo messaggio personalizzato ai followers.<br>Automatizziamo l'invio di un messaggio alla ricezione di un commento o messaggio dai tuoi follower.<br>",
-          "list2": "<p><span style=\"line-height: 1.5;\">Crescita Organica</span><br></p><p>Concentri sul pubblico preferito</p><p>Gestione 7 gg a settimana</p><p>Supporto online</p><p><br></p>",
+          "list2": "<p><span style=\"line-height: 1.5;\">Crescita Organica</span><br></p><p>Concentri sul pubblico preferito</p><p>Gestione 7 gg a settimana</p><p>Supporto online</p><p><span style=\"line-height: 1.5;\">Necessaria la password</span></p><p><span style=\"line-height: 1.5;\"><br></span></p>",
           "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com\" class=\"btn btn-warning-outline btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">inizia</a>",
           "label3": "HOT!",
           "title3": "INCREMENTO RAPIDO<br>LIKE ITALIANI<br><br>",
@@ -369,7 +372,7 @@
           "price3": "1.000 Like Italiani&nbsp; &nbsp; &nbsp;",
           "period3": "",
           "description3": "<span style=\"font-size: 0.875rem; line-height: 1.79;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.79;\">L’incremento dei like ti posiziona &nbsp;tra i post migliori di Instagram per HashTag e accresce la reputazione.</span><br>",
-          "list3": "<p>Puoi dividere i like per più post</p><p><span style=\"line-height: 1.5;\">Consegna entro le 24 h</span></p><p><span style=\"line-height: 1.5;\">90% like Italiani</span></p><p><span style=\"line-height: 1.5;\">Non organico</span></p>",
+          "list3": "<p>Puoi dividere i like per più post</p><p><span style=\"line-height: 1.5;\">Consegna entro le 24 h</span></p><p><span style=\"line-height: 1.5;\">Non organico</span></p><p><span style=\"line-height: 1.5;\">non necessita di password&nbsp;</span></p>",
           "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com\" class=\"btn btn-warning-outline btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">1000 like 20€<br></a> <a data-app-btn=\"true\" href=\"https://www.paypal.com\" class=\"btn btn-warning-outline btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">5000 like 60€<br></a>",
           "label4": "HOT!",
           "title4": "INCREMENTO RAPIDO<br>VISUALIZZAZIONI VIDEO",
@@ -378,7 +381,7 @@
           "price4": "<br>1.000 visualizzazioni<br>&nbsp; &nbsp; &nbsp; &nbsp;<br>",
           "period4": "",
           "description4": "L’incremento delle visite ti posiziona tra i post migliori di Instagram per HashTag e accresce la reputazione.",
-          "list4": "<p><span style=\"line-height: 1.5;\">Puoi dividere le view per post</span></p><p><span style=\"line-height: 1.5;\">Consegna entro le 24 h</span></p><p><span style=\"line-height: 1.5;\">Non organico</span></p><div><br></div><p></p>",
+          "list4": "<p><span style=\"line-height: 1.5;\">Puoi dividere le view per post</span></p><p><span style=\"line-height: 1.5;\">Consegna entro le 24 h</span></p><p><span style=\"line-height: 1.5;\">Non organico</span></p><div>non necessita di password&nbsp;</div><p></p>",
           "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com\" class=\"btn btn-warning-outline btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">1000 view 10 €</a> <a data-app-btn=\"true\" href=\"https://www.paypal.com\" class=\"btn btn-warning-outline btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">5000 view 20 €</a>"
         },
         {
@@ -431,7 +434,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -455,24 +458,47 @@
               "size": 0
             }
           },
-          "title": "<span style=\"line-height: 1.1;\"><br></span><br><span style=\"line-height: 1.1;\">LINKEDIN&nbsp;MASS&nbsp;</span><br>",
-          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">Linkedin, c</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">on oltre 300 milioni di utenti e il 49% dei quali sono decision makers,</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;è lo strumento per ricercare e connettersi con potenziali clienti interessati ai prodotti o servizi offerti, perfetto per &nbsp;il cosiddetto social selling.</span><br><br><i>Cosa possiamo fare per te:</i><i><br></i><br><i style=\"font-weight: bold;\">°</i><b> Lead Generation per parola chiave e geolocalizzazione<br>°&nbsp;Incremento rapido Connessioni di 1°<br>°&nbsp;Invio Messaggi a tutti i Contatti di 1° e 2°<br>°&nbsp;Incremento dell'engagement<br>°&nbsp;Incremento degli endorsed riguardo le competenze</b>",
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"index.html#form1-i\" data-toolbar=\"-mbrBtnMove\">Contattaci</a>    "
+          "title": "<br><span style=\"line-height: 1.1;\">LINKEDIN&nbsp;MASS&nbsp;</span><br>",
+          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">Linkedin, c</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">on oltre 300 milioni di utenti e il 49% dei quali sono decision makers,</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;è lo strumento per ricercare e connettersi con potenziali clienti interessati ai prodotti o servizi offerti, perfetto per &nbsp;il cosiddetto social selling B2B.</span><i><br></i><br><br>",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"index.html#pricing-table1-x\" data-toolbar=\"-mbrBtnMove\">scopri come</a>    "
         },
         {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff",
+              "font-size": "46px"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            },
+            ".mbr-price-term": {
+              "font-size": "22px"
+            },
+            ".mbr-price-figure": {
+              "font-size": "36px"
+            },
+            ".mbr-price-value": {
+              "font-size": "24px"
+            },
+            ".mbr-plan-price-desc": {
+              "color": "#ffffff",
+              "text-align": "right"
+            },
+            ".mbr-plan-subtitle": {
+              "color": "#000000"
+            },
+            "UL": {
+              "font-size": "12px"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "features3",
-          "_styles": {
-            "H5": {
-              "color": "#f7da64"
-            }
-          },
-          "_anchor": "features3-p",
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-x",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 2,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -485,101 +511,52 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": 4,
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "showButtons": true,
+            "secondType": "bg-primary",
+            "thirdType": "",
+            "fourthType": ""
           },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/download-600x394.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Lead Generation e Sales",
-          "subtitle1": "del tuo prodotto o servizio",
-          "caption1": "<br>Ricerchiamo il prospect per mansione lavorativa e geolocalizzazione.<br>Inviamo il tuo messaggio a tutti i contatti di 1° e 2°<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://paypal.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">€ 149 al mese</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/images-600x389.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Incremento <br>Connessioni e Follower&nbsp;",
+          "title": "accelera la crescita Linkedin",
+          "subtitle": "In 1 settimana ti offriamo più risultati della solita gestione mensile di un social media manager.",
+          "label1": "HOT!",
+          "title1": "INCREMENTO ORGANICO<br>ENDORSED",
+          "subtitle1": "del tuo profilo",
+          "currency1": "€",
+          "price1": "20",
+          "period1": "/settimana",
+          "description1": "Incrementiamo gli endorsed riguardo le competenze personali.",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Incremento endorsed&nbsp;</span><br></li><li class=\"list-group-item\">necessaria la password</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">inizia</a>",
+          "label2": "HOT!",
+          "title2": "INCREMENTI ORGANICI<br>CONNESSIONI, FOLLOWER",
           "subtitle2": "del tuo profilo",
-          "caption2": "Ricerchiamo il prospect per mansione e geolocalizzazione e lo invitiamo a connetterci o scegliamo di seguirlo.<br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://paypal.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">€ 99 al mese</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/images-600x399.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "Incremento Endorsed",
-          "subtitle3": "del tuo profilo<br><br>",
-          "caption3": " Incrementiamo gli endorsed riguardo le competenze personali.<br><br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://paypal.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">€ 49 al mese</a>",
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title4": "Gestione completa",
-          "subtitle4": "del tuo profilo",
-          "caption4": "Gestiamo il tuo profilo a 360° Incrementiamo l'engagement e le visualizzazioni del tuo profilo.<br><br><br>",
-          "button4": "<a data-app-btn=\"true\" href=\"index.html#form1-i\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">€ 199</a>",
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "currency2": "€",
+          "price2": "50",
+          "period2": "/settimana",
+          "description2": "Ricerchiamo il prospect per mansione e geolocalizzazione e Lo invitiamo a connettersi o scegliamo di seguirlo.",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Incremento profilato&nbsp;</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">necessaria la password</span></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">inizia</a>",
+          "label3": "HOT!",
+          "title3": "LEAD GENERATION<br>SALES",
+          "subtitle3": "del tuo prodotto o servizio",
+          "currency3": "€",
+          "price3": "50",
+          "period3": "/settimana",
+          "description3": "Ricerchiamo il prospect per mansione lavorativa e geolocalizzazione.<br>Inviamo il tuo messaggio a tutti i contatti di 1° e 2°<br>",
+          "list3": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">Incremento profilato contatti 1*</span><br><li class=\"list-group-item\">Incremento DB email</li><li class=\"list-group-item\">Creazione Landing Page</li><li class=\"list-group-item\">necessaria la password</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">inizia</a>",
+          "label4": "HOT!",
+          "title4": "INCREMENTO ESPLOSIVO<br>",
+          "subtitle4": "profilo<br><br>",
+          "currency4": "€",
+          "price4": "50",
+          "period4": "/settimana",
+          "description4": "Gestiamo il tuo profilo a 360° Incrementiamo l'engagement e le visualizzazioni del tuo profilo.<br>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">incremento contatti 1°</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Incremento endorsed</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Incremento visualizzazioni&nbsp;</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Incremento follower</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Incremento DB email</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">necessaria la password</span></li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">inizia</a>"
         },
         {
           "_tags": [
@@ -609,7 +586,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#303030",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -621,7 +598,7 @@
             "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -646,72 +623,40 @@
             }
           },
           "title": "FACEBOOK MASS&nbsp;",
-          "text": "È indispensabile, seguire una serie di strategie marketing per attirare l’attenzione degli utenti, ottenere Lead (contatti) generando interazione, coinvolgimento con il proprio pubblico.<br>Facebook è il miglior canale per acquisire nuovi contatti di qualità, grazie all’utilizzo strategico delle sue potenzialità gratuite e a pagamento.<br><br><b>Cosa ti possiamo offire?</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#features1-6\" data-toolbar=\"-mbrBtnMove\">Scegli</a>"
+          "text": "<br>Facebook è il miglior canale per acquisire nuovi contatti di qualità.<br><br>Utilizziamo delle strategie di marketing non convenzionali per<br>generare più interazione e coinvolgimento con la propria nicchia.<br><br>Attiriamo l’attenzione degli utenti e ottenere Lead.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#pricing-table1-w\" data-toolbar=\"-mbrBtnMove\">Scopri come</a>"
         },
         {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff",
+              "font-size": "46px"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            },
+            "UL": {
+              "font-size": "12px"
+            },
+            ".mbr-price-figure": {
+              "font-size": "32px"
+            },
+            ".mbr-price-term": {
+              "font-size": "22px"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "features1",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#000000"
-            },
-            ".btn": {
-              "font-size": "15px"
-            },
-            ".mbr-cards-col:nth-child(even) .card-title": {
-              "font-size": "18px",
-              "color": "#ffffff"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-title": {
-              "font-size": "18px"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-text": {
-              "text-align": "center",
-              "font-size": "14px"
-            },
-            ".mbr-cards-col:nth-child(even) .card-text": {
-              "text-align": "center",
-              "font-size": "14px",
-              "color": "#ffffff"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-subtitle B": {
-              "color": "#ffffff"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
-              "color": "#ffffff"
-            },
-            ".mbr-cards-col:nth-child(even) .card-text B": {
-              "font-size": "18px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-subtitle SPAN": {
-              "text-align": "left",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "14px"
-            },
-            ".mbr-cards-col:nth-child(even) .card-subtitle": {
-              "color": "#ffffff"
-            },
-            ".mbr-cards-col:nth-child(even) .card-subtitle B": {
-              "font-size": "18px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            }
-          },
-          "_anchor": "features1-6",
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-w",
           "_params": {
-            "columnsColor": "#000000",
-            "paddingTop": "0",
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#303030",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -720,101 +665,123 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": 4,
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "showButtons": true,
+            "secondType": "bg-primary",
+            "thirdType": "",
+            "fourthType": ""
           },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/download-600x600.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Gestione Pagina Facebook &nbsp;",
-          "subtitle1": "Gesetione Profilo - Pagina - Gruppo",
-          "caption1": "<br><br>La gestione professionale di una pagina Facebook garantisce risparmio di tempo e denaro.<br>Incrementiamo organicamente l'engagement.<br><br><br><br><br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"www.paypal.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"> € 99 al mese</a>  ",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/schermata-2017-06-12-alle-00-600x598.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Gestione Adv Facebook",
-          "subtitle2": "Per chi vuole confrontarsi con il mondo pubblicitario di Facebook.<br><br>",
-          "caption2": "* Creiamo Campagne Facebook<br>* Sviluppiamo la Landing Page<br>* Sviluppiamo contenuti testuali<br>* Studiamo la concorrenza<br>* Impostiamo Analytics<br><br><br><br><br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"www.paypal.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"> € 149 al mese</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/download-600x600.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
+          "title": "accelera la crescita Fb",
+          "subtitle": "In 1 settimana ti offriamo più risultati della solita gestione mensile di un social media manager.",
+          "label1": "HOT!",
+          "title1": "Incremento Pagina FB&nbsp;",
+          "subtitle1": "Gestione Profilo o Pagina",
+          "currency1": "€",
+          "price1": "50",
+          "period1": "/settimana",
+          "description1": "La gestione professionale di una pagina Facebook garantisce risparmio di tempo e denaro.<br>Incrementiamo organicamente l'engagement.",
+          "list1": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">Incremento organico follower</span><br><li class=\"list-group-item\">Incremento organico Like</li><li class=\"list-group-item\">Password necessaria<br></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">inizia</a>",
+          "label2": "HOT!",
+          "title2": "Analisi Competitor",
+          "subtitle2": "Sviluppo della strategia",
+          "currency2": "€",
+          "price2": "199",
+          "period2": "",
+          "description2": "Scopri il comportamento dei migliori competitor e ricalcali.",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">&nbsp;Analisi  dei competitor</li><li class=\"list-group-item\">Analisi dei loro post</li><li class=\"list-group-item\">Analisi delle condivisioni</li><li class=\"list-group-item\">Ricerca stessi follower</li><li class=\"list-group-item\">Ricerca migliori Influencer</li><li class=\"list-group-item\">Report dettagliato.</li><li class=\"list-group-item\">Password non necessaria</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">inizia</a>",
+          "label3": "HOT!",
           "title3": "Lead Generation Organica",
-          "subtitle3": "Raggiungi il tuo target <br>converti senza pagare facebook.<br><br><br><span style=\"font-style: normal;\">Ricerchiamo il prospect per interessi, età, geolocalizzazione.</span><br><span style=\"font-style: normal;\">Sviluppiamo la Landing Page</span><br><span style=\"font-style: normal;\">Trasformiamo i fan in clienti</span><br><br><div><span style=\"font-style: normal;\"><br></span><br></div>",
-          "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"index.html#form1-i\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">€ 199 al meese</a>",
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/schermata-2017-06-17-alle-13-600x561.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+          "subtitle3": "per i tuoi prodotti o servizi",
+          "currency3": "€",
+          "price3": "50",
+          "period3": "/settimana",
+          "description3": "Raggiungi il tuo target <br>converti senza pagare Facebook..",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Ricerca prospect per interessi, età, località.</li><li class=\"list-group-item\">Sviluppo Landing Page</li><li class=\"list-group-item\">Lead qualificate</li><li class=\"list-group-item\">Password necessaria</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">inizia</a>",
+          "label4": "HOT!",
+          "title4": "Gestione Adv Facebook",
+          "subtitle4": "per migliorare le conversioni",
+          "currency4": "€",
+          "price4": "150",
+          "period4": "/mese",
+          "description4": "Per chi vuole confrontarsi con il mondo pubblicitario di Facebook.",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Creazione Campagne FB</li><li class=\"list-group-item\">Sviluppo LandingPage</li><li class=\"list-group-item\">Sviluppo contenuti</li><li class=\"list-group-item\">Studio della concorrenza</li><li class=\"list-group-item\">Impostazione Analytics</li><li class=\"list-group-item\">Password non necessaria</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">inizia</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "<p>“Socialmass mi ha risparmiato un sacco di tempo nella gestione del mio Instagram e mi ha aiutato a costruire il mio marchio. </p><p>Avevo trascorso ore e ore ad interagire su IG con scarso successo.\"</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Olga S.",
+              "authorBio": "Cliente"
+            },
+            {
+              "text": "<p>“Ho fatto con voi due settimane. Ho tenuto d'occhio i like e i nuovi follower, scoprendo che sono persone reali &nbsp;!!! Nel mio caso si tratta di persone che sono interessate a miei post.\"</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Francesca A.",
+              "authorBio": "Cliente"
+            },
+            {
+              "text": "<p>“Risultati sorprendenti! </p><p>Sono stato molto cauto all'inizio, ma sono molto contento di Socialmass, hanno aumentato il mio engagement e ho fatto lead generation!”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Stefania C.",
+              "authorBio": "Cliente"
             }
+          ],
+          "_anchor": "testimonials1-v",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "count": 3,
+            "showImages": true,
+            "showName": true,
+            "showBio": true
           },
-          "title4": "",
-          "subtitle4": "<b style=\"font-style: normal;\">Analisi Competitor</b><br><b style=\"font-style: normal;\">Sviluppo Strategia</b>",
-          "caption4": "<br><br><span style=\"line-height: 1.5;\">Analizziamo i tuoi competitor</span><br>Analizziamo i loro post le loro condivisioni e campagne ads<br>Intercettiamo gli stessi follower<br>Raggiungiamo i migliori Influencer.<br>Forniamo un report dettagliato.<div><br></div><br><div><br></div>",
-          "button4": "<a data-app-btn=\"true\" href=\"index.html#form1-i\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">€ 199</a>",
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "title": "Cosa dicono di noi",
+          "subtitle": " lasciamo che i nostri clienti dicano la loro."
         },
         {
           "_tags": [
@@ -831,11 +798,11 @@
             "labelsColor": "#232323",
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",

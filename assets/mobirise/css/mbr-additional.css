@@ -6,9 +6,6 @@
 
 
 
-
-
-
 body,
 input,
 textarea,
@@ -519,6 +516,9 @@ h6,
 #pricing-table2-s P {
   font-size: 14px;
 }
+#pricing-table2-s .mbr-section__container .mbr-section-title {
+  font-size: 46px;
+}
 #msg-box5-l H3 {
   color: #2969b0;
   font-size: 32px;
@@ -542,8 +542,31 @@ h6,
   color: #000000;
   text-align: center;
 }
-#features3-p H5 {
-  color: #f7da64;
+#pricing-table1-x .mbr-section__container .mbr-section-title {
+  color: #fff;
+  font-size: 46px;
+}
+#pricing-table1-x .mbr-section__container .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#pricing-table1-x .mbr-price-term {
+  font-size: 22px;
+}
+#pricing-table1-x .mbr-price-figure {
+  font-size: 36px;
+}
+#pricing-table1-x .mbr-price-value {
+  font-size: 24px;
+}
+#pricing-table1-x .mbr-plan-price-desc {
+  color: #ffffff;
+  text-align: right;
+}
+#pricing-table1-x .mbr-plan-subtitle {
+  color: #000000;
+}
+#pricing-table1-x UL {
+  font-size: 12px;
 }
 #msg-box5-m H3 {
   color: #0d36f9;
@@ -558,49 +581,21 @@ h6,
 #msg-box5-m B {
   color: #fac51c;
 }
-#features1-6 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #000000;
+#pricing-table1-w .mbr-section__container .mbr-section-title {
+  color: #fff;
+  font-size: 46px;
 }
-#features1-6 .btn {
-  font-size: 15px;
+#pricing-table1-w .mbr-section__container .mbr-section-subtitle {
+  color: #a0a0a0;
 }
-#features1-6 .mbr-cards-col:nth-child(even) .card-title {
-  font-size: 18px;
-  color: #ffffff;
+#pricing-table1-w UL {
+  font-size: 12px;
 }
-#features1-6 .mbr-cards-col:nth-child(odd) .card-title {
-  font-size: 18px;
+#pricing-table1-w .mbr-price-figure {
+  font-size: 32px;
 }
-#features1-6 .mbr-cards-col:nth-child(odd) .card-text {
-  text-align: center;
-  font-size: 14px;
-}
-#features1-6 .mbr-cards-col:nth-child(even) .card-text {
-  text-align: center;
-  font-size: 14px;
-  color: #ffffff;
-}
-#features1-6 .mbr-cards-col:nth-child(odd) .card-subtitle B {
-  color: #ffffff;
-}
-#features1-6 .mbr-cards-col:nth-child(odd) .card-subtitle {
-  color: #ffffff;
-}
-#features1-6 .mbr-cards-col:nth-child(even) .card-text B {
-  font-size: 18px;
-  font-family: 'Montserrat', sans-serif;
-}
-#features1-6 .mbr-cards-col:nth-child(odd) .card-subtitle SPAN {
-  text-align: left;
-  font-family: 'Raleway', sans-serif;
-  font-size: 14px;
-}
-#features1-6 .mbr-cards-col:nth-child(even) .card-subtitle {
-  color: #ffffff;
-}
-#features1-6 .mbr-cards-col:nth-child(even) .card-subtitle B {
-  font-size: 18px;
-  font-family: 'Montserrat', sans-serif;
+#pricing-table1-w .mbr-price-term {
+  font-size: 22px;
 }
 #form1-i .form-control-label {
   color: #232323;
