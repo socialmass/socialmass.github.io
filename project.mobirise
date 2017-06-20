@@ -84,7 +84,7 @@
               "color": "#fff"
             },
             ".lead P": {
-              "color": "#f3c649",
+              "color": "#fac51c",
               "text-align": "center"
             }
           },
@@ -115,7 +115,7 @@
             "showButton": false
           },
           "title": "Facciamo qualcosa di nuovo",
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Vi aiutiamo a far crescere i vostri account&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">LINKEDIN, FACEBOOK, INSTAGRAM</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Applichiamo strategie di marketing non convenzionali</span></p>",
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Vi aiutiamo a far crescere i vostri account&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Linkedin, Facebook e Instagram</span></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
