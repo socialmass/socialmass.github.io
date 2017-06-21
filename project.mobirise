@@ -49,7 +49,7 @@
               "font-size": "46px"
             },
             ".mbr-section-lead": {
-              "color": "#f3c649",
+              "color": "#8bd7fd",
               "font-size": "22px"
             }
           },
@@ -89,8 +89,8 @@
               "text-align": "center"
             },
             ".lead H4": {
-              "color": "#f3c649",
-              "font-size": "20px",
+              "color": "#8bd7fd",
+              "font-size": "19px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
@@ -140,7 +140,7 @@
             "SPAN": {
               "font-size": "32px",
               "text-align": "center",
-              "color": "#f3c649"
+              "color": "#4477ff"
             },
             ".btn": {
               "font-size": "15px"
@@ -200,7 +200,7 @@
           "_styles": {
             "H3": {
               "color": "#fac51c",
-              "font-size": "32px",
+              "font-size": "36px",
               "text-align": "center"
             },
             "P": {
@@ -314,7 +314,7 @@
               "font-size": "14px"
             },
             ".mbr-section__container .mbr-section-title": {
-              "font-size": "46px"
+              "font-size": "36px"
             }
           },
           "_tags": [
@@ -345,7 +345,7 @@
             "thirdType": "",
             "fourthType": ""
           },
-          "title": "accelera la crescita IG",
+          "title": "accelera la crescita Instagram",
           "subtitle": "In una settimana ti offriamo più risultati della classica gestione mensile di un social media manager.",
           "label1": "HOT!",
           "title1": "INCREMENTO ORGANICO<br>LIKE E FOLLOWER",
@@ -403,7 +403,8 @@
             },
             "SPAN": {
               "text-align": "center",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "36px"
             },
             "B": {
               "text-align": "right",
@@ -466,10 +467,10 @@
           "_styles": {
             ".mbr-section__container .mbr-section-title": {
               "color": "#fff",
-              "font-size": "46px"
+              "font-size": "36px"
             },
             ".mbr-section__container .mbr-section-subtitle": {
-              "color": "#a0a0a0"
+              "color": "#000000"
             },
             ".mbr-price-term": {
               "font-size": "22px"
@@ -515,7 +516,7 @@
             "showSubtitle": true,
             "firstType": "",
             "showButtons": true,
-            "secondType": "bg-primary",
+            "secondType": "",
             "thirdType": "",
             "fourthType": ""
           },
@@ -552,7 +553,7 @@
           "title4": "INCREMENTO ESPLOSIVO<br>",
           "subtitle4": "profilo<br><br>",
           "currency4": "€",
-          "price4": "50",
+          "price4": "60",
           "period4": "/settimana",
           "description4": "Gestiamo il tuo profilo a 360° Incrementiamo l'engagement e le visualizzazioni del tuo profilo.<br>",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">incremento contatti 1°</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Incremento endorsed</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Incremento visualizzazioni&nbsp;</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Incremento follower</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Incremento DB email</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">necessaria la password</span></li></ul>",
@@ -566,7 +567,7 @@
           "_styles": {
             "H3": {
               "color": "#0d36f9",
-              "font-size": "32px"
+              "font-size": "36px"
             },
             "P": {
               "color": "#ffffff"
@@ -630,7 +631,7 @@
           "_styles": {
             ".mbr-section__container .mbr-section-title": {
               "color": "#fff",
-              "font-size": "46px"
+              "font-size": "36px"
             },
             ".mbr-section__container .mbr-section-subtitle": {
               "color": "#a0a0a0"
@@ -673,7 +674,7 @@
             "thirdType": "",
             "fourthType": ""
           },
-          "title": "accelera la crescita Fb",
+          "title": "accelera la crescita Facebook",
           "subtitle": "In 1 settimana ti offriamo più risultati della solita gestione mensile di un social media manager.",
           "label1": "HOT!",
           "title1": "Incremento Pagina FB&nbsp;",
@@ -791,6 +792,9 @@
           "_styles": {
             ".form-control-label": {
               "color": "#232323"
+            },
+            "SMALL": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "form1-i",

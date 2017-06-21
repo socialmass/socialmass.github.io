@@ -418,7 +418,7 @@ h6,
   font-size: 46px;
 }
 #header1-3 .mbr-section-lead {
-  color: #f3c649;
+  color: #8bd7fd;
   font-size: 22px;
 }
 #msg-box8-t .mbr-section-title,
@@ -430,8 +430,8 @@ h6,
   text-align: center;
 }
 #msg-box8-t .lead H4 {
-  color: #f3c649;
-  font-size: 20px;
+  color: #8bd7fd;
+  font-size: 19px;
   font-family: 'Lora', serif;
 }
 #msg-box5-f H3 {
@@ -443,14 +443,14 @@ h6,
 #msg-box5-f SPAN {
   font-size: 32px;
   text-align: center;
-  color: #f3c649;
+  color: #4477ff;
 }
 #msg-box5-f .btn {
   font-size: 15px;
 }
 #msg-box5-n H3 {
   color: #fac51c;
-  font-size: 32px;
+  font-size: 36px;
   text-align: center;
 }
 #msg-box5-n P {
@@ -517,7 +517,7 @@ h6,
   font-size: 14px;
 }
 #pricing-table2-s .mbr-section__container .mbr-section-title {
-  font-size: 46px;
+  font-size: 36px;
 }
 #msg-box5-l H3 {
   color: #2969b0;
@@ -533,6 +533,7 @@ h6,
 #msg-box5-l SPAN {
   text-align: center;
   color: #ffffff;
+  font-size: 36px;
 }
 #msg-box5-l B {
   text-align: right;
@@ -544,10 +545,10 @@ h6,
 }
 #pricing-table1-x .mbr-section__container .mbr-section-title {
   color: #fff;
-  font-size: 46px;
+  font-size: 36px;
 }
 #pricing-table1-x .mbr-section__container .mbr-section-subtitle {
-  color: #a0a0a0;
+  color: #000000;
 }
 #pricing-table1-x .mbr-price-term {
   font-size: 22px;
@@ -570,7 +571,7 @@ h6,
 }
 #msg-box5-m H3 {
   color: #0d36f9;
-  font-size: 32px;
+  font-size: 36px;
 }
 #msg-box5-m P {
   color: #ffffff;
@@ -583,7 +584,7 @@ h6,
 }
 #pricing-table1-w .mbr-section__container .mbr-section-title {
   color: #fff;
-  font-size: 46px;
+  font-size: 36px;
 }
 #pricing-table1-w .mbr-section__container .mbr-section-subtitle {
   color: #a0a0a0;
@@ -599,6 +600,9 @@ h6,
 }
 #form1-i .form-control-label {
   color: #232323;
+}
+#form1-i SMALL {
+  color: #ffffff;
 }
 #menu-o .hide-buttons .nav-btn {
   display: none !important;
